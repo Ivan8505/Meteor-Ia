@@ -103,6 +103,81 @@
         </div>
       </main>
 
+      <footer class="container-fluid">
+
+        <div class="container">
+            <div class="footer-row row">
+                <div class="col-md-4 d-flex flex-column">
+
+                    <h4>Institucional</h4>
+
+                    <div class="row">
+                        <div class="d-flex flex-column col-md-6">
+
+                            <a href="#">Políticas de privacidade</a>
+                            <a href="#">Trabalhe conosco</a>
+                            <a href="#">Código de defesa do consumidor</a>
+                        </div>
+                        
+                        <div class="d-flex flex-column col-md-6">
+                            <a href="#">Sobre</a>
+                            <a href="#">Políticas do site</a>
+                            <a href="#">Política de cookies</a>
+                        </div>
+                    </div>
+                    
+                    <h4 class="marginT-32">FAQ</h4>
+                    <a href="#">Lorem</a>
+                    
+                </div>
+
+                <div class="col-md-4 d-flex flex-column">
     
-    </body>
-</html>
+                    <h4>Redes sociais</h4>
+            
+                    <div class="col-md-6 marginT-16">
+                        <a href="#">
+                            <img src="assets/nasa.png" width="32" height="32" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/nasa.png" width="32" height="32" alt="">
+                        </a>
+                    </div>
+            
+                    <div class="col-md-6 marginT-8">
+                        <a href="#">
+                            <img src="assets/nasa.png" width="32" height="32" alt="">
+                        </a>
+                        <a href="#">
+                            <img src="assets/nasa.png" width="32" height="32" alt="">
+                        </a>
+                    </div>
+                    
+                    
+                </div>
+
+                <div class="col-md-4 d-flex flex-column">
+                    
+                    <h4>Atendimento</h4>
+                    
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, reiciendis.</p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae, reiciendis.</p>
+                    
+                    <h4 class="marginT-16">SAC</h4>
+
+                    <p>(XX) XXXX-XXXX</p>
+
+
+                    <h4 class="marginT-16">CHAT</h4>
+
+                    <button class="btn btn-primary">
+                        <img src="assets/imgs/google.png" width="16" height="16" alt="">
+                        Atendimento
+                    </button>
+
+                </div>
+            </div>
+        </div>
+    </main>
+    
+</body>
