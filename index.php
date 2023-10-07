@@ -45,44 +45,62 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quas deleniti tempore. Fugit deleniti qui repudiandae, odio eos quidem voluptatem ducimus ab voluptatum officia nesciunt veritatis. Enim ullam saepe ea.</p>
           </div>
 
-          <div class="row">
-            <div class="col-md-6">
-              <h4>Lorem</h4>
+          <h3>Lorem</h3>
 
-              <div class="d-flex justify-content-between left flex-column" >
-                
-                <div>
-                  <div>
-                    <span>Tarde:</span>
-                    <img src="assets/nasa.png" width="32" height="32" alt=""> 
-                  </div>
-                </div>
-
-                <div>
-                  <div>
-                    <span>Noite:</span>
-                    <img src="assets/nasa.png" width="32" height="32" alt=""> 
-                  </div>
-                </div>
-
+          <div class="d-flex justify-content-center align-items-center">
+           
+            <div class="d-flex img">
+              <img src="assets/teste.jpg" alt="">
             </div>
-              
-            </div>
-            
-            <div class="col-md-6">
-              <h4>Lorem</h4>
 
-              <div class="d-flex justify-content-between right">
-
-                
-
-              </div>
+            <div class="d-flex img">
+              <img src="assets/teste.jpg" alt="">
             </div>
 
           </div>
 
-        </div>
+          <h3>Lorem</h3>
 
+          <div class="row d-flex justify-content-center align-items-center">
+           
+            <div class="d-flex justify-content-between col-md-6 left">
+
+              <div class="left">
+                <div class="d-flex align-items-center"> 
+                  <span>Tarde:</span>
+                  <div><img src="assets/nasa.png" width="32" height="32" alt="">50%</div>
+                </div>
+
+                <div class="d-flex align-items-center"> 
+                  <span>Noite:</span>
+                  <div><img src="assets/nasa.png" width="32" height="32" alt="">50%</div>
+                </div>
+              </div>
+
+              <div class="right">
+                <div class="d-flex align-items-center"> 
+                  <span>Temperatura min.:</span>
+                  <div><img src="assets/nasa.png" width="32" height="32" alt="">38ºC</div>
+                </div>
+
+                <div class="d-flex align-items-center"> 
+                  <span>Temperatura max.:</span>
+                  <div><img src="assets/nasa.png" width="32" height="32" alt="">99ºC</div>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="d-flex justify-content-center col-md-6 right">
+
+              <div>Teste</div>
+              
+            </div>
+            
+
+          </div>
+
+        </div>
       </main>
 
     
