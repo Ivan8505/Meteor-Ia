@@ -1,0 +1,25 @@
+{
+  "name": "meteor-ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass src/style.scss src/style.css --watch --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan8505/Meteor-Ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan8505/Meteor-Ia/issues"
+  },
+  "homepage": "https://github.com/Ivan8505/Meteor-Ia#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1",
+    "node-sass": "^9.0.0"
+  }
+}
